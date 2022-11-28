@@ -23,6 +23,7 @@ pan += spaghetti; //add spaghetti to the pan.
 pan += bowl; // add the bowl of cheese eggs and pepper to the pan.
 bowl-=bowl; // adjust the count of ingredients in the bowl
 pan += pepper; //add remaining pepper to the bowl.
+carbonara = pan;
 
 //console.log('spaghetti',spaghetti,'\nguanciale',guanciale,'\neggyolks',eggYolks,'\npecorino',pecorino,'\npepper',pepper,'\nbowl',bowl,'\npan',pan,'\npot',pot,'\npastawater',pastaWater,'\nladle',ladle,'\nsauce',sauce)
-console.log('Total Weight ignoring evaporation is', pan,'g');
+console.log('Total Weight ignoring evaporation is', carbonara,'g');
